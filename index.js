@@ -28,7 +28,8 @@ module.exports = pull.Source(function(observable) {
   // hook up a listener to the observable
   var stop = observable(function(val) {
     // if we are waiting for a value provide it, otherwise buffer
-    val && (next.length ? next.shift()(null, val) : buffer[buffer.length] = val);
+    // ignore the initial undefined value
+    val != undefined && (next.length ? next.shift()(null, val) : buffer[buffer.length] = val);
   });
 
   return function(end, cb) {
