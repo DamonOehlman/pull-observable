@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DamonOehlman/pull-observable.git"
+    "url": "https://bitbucket.org/DamonOehlman/pull-observable.git"
   },
   "keywords": [
     "pull-stream",
@@ -18,7 +18,7 @@
   "author": "Damon Oehlman <damon.oehlman@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DamonOehlman/pull-observable/issues"
+    "url": "https://bitbucket.org/DamonOehlman/pull-observable/issues"
   },
   "devDependencies": {
     "point": "~0.2.0",
