@@ -1,6 +1,6 @@
 {
   "name": "pull-observable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "observable as a pull-stream source to take advantage of existing throughs and sinks",
   "main": "index.js",
   "scripts": {
