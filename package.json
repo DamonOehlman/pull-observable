@@ -1,7 +1,7 @@
 {
   "name": "pull-observable",
   "version": "0.1.1",
-  "description": "observable + pull-streams to take advantage of existing throughs and sinks",
+  "description": "observable as a pull-stream source to take advantage of existing throughs and sinks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
