@@ -11,7 +11,7 @@ you can do some cool things.
 
 [![NPM](https://nodei.co/npm/pull-observable.png)](https://nodei.co/npm/pull-observable/)
 
-![experimental](https://img.shields.io/badge/stability-experimental-red.svg)
+[![experimental](https://img.shields.io/badge/stability-experimental-red.svg)](https://github.com/dominictarr/stability#experimental) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/pull-observable/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/pull-observable) 
 
 ## Example Usage
 
@@ -38,7 +38,7 @@ pull(
 
 ### MIT
 
-Copyright (c) 2014 Damon Oehlman <damon.oehlman@gmail.com>
+Copyright (c) 2015 Damon Oehlman <damon.oehlman@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
